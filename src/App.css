@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image:url('https://image.freepik.com/free-vector/abstract-background-futuristic-design_23-2148503795.jpg');
+  height:780px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
 }
 
 .App-logo {
